@@ -127,4 +127,12 @@
     background-color: #FFA500;
     color: #fff;
   }
+
+@media screen and (max-width: 767px) {
+
+    .about {
+        flex-direction: column;
+    }
+
+}
   
